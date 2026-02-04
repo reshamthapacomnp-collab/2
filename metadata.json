@@ -1,0 +1,7 @@
+{
+  "name": "SiteCraft AI",
+  "description": "An AI-powered website architect that generates complete landing page concepts, including copy, layouts, and high-quality hero images using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
